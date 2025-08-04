@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.urmifeb.mongodb.net
       MONGODB_USERNAME: imnilesh18
-      MONGODB_PASSWORD: 8pIbXjGlMQ8WtgRt
+      MONGODB_PASSWORD: QDIQ451Gkxxgx9Ek
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
